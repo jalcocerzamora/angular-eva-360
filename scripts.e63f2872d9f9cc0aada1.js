@@ -1,0 +1,1 @@
+function tabs(){return{tabOption:"General"}}
