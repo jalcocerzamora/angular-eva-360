@@ -271,6 +271,9 @@ Apache-2.0
 @firebase/webchannel-wrapper
 Apache-2.0
 
+@ngneat/until-destroy
+MIT
+
 core-js
 MIT
 Copyright (c) 2014-2020 Denis Pushkarev
